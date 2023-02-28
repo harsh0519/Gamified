@@ -3,7 +3,7 @@ import trophy from '../assets/trophy.png'
 import { featuresData } from '../Utils/Data'
 const Features = () => {
   return (
-    <div className='h-full md:h-screen w-full bg-black '>
+    <div className='h-full lg:h-screen w-full bg-black '>
          <div className='text-center pt-8 '>
             <h1 className='text-4xl text-fuchsia-400 font-semibold'>TOP FEATURES</h1>
             </div>
